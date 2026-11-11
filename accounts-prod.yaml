@@ -6,7 +6,7 @@ accounts:
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     #email: "aishwarya@eazybank.com"
-    email: "{cipher}3df0bf5e72909599aa8899a7ae52283d6770ac25856479daef4ca7027cf2b38a0162b77bfd54a140e343b236e96bcd85"
+    email: "{cipher}f54c6a35c47643d57ac78ac5a676427dd257aeba15cd6bf8e3733467014fabc7238781bf745f1b7403f5b0dae2156e1a"
   onCallSupport:
     - (555)555-3322
     - (555)555-1345
